@@ -1,6 +1,6 @@
 // app/layout.tsx
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 import "./globals.css";
