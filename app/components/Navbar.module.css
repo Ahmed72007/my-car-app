@@ -1,0 +1,19 @@
+/* app/components/Navbar.module.css */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #333;
+    color: #e94d4d;
+  }
+  
+  .nav a {
+    margin-right: 1rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+  }
+  
